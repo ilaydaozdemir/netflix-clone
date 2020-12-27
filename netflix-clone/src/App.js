@@ -1,15 +1,13 @@
-import './App.css';
+import '../src/css/App.css';
 import React from 'react';
 import Row from './components/Row';
 import requests from './requests';
+import Banner from '../src/components/Banner';
 
 function App() {
   return (
     <div className='App'>
-      <h1>
-        Hi everybody. I am İlayda Özdemir. Let's build Netflix Clone Front-end
-        today
-      </h1>
+      <Banner />
       <Row
         title='NETFLİX ORIGINALS'
         fetchUrl={requests.fetchNetflixOriginals}

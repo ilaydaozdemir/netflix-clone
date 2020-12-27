@@ -6,7 +6,7 @@ import Banner from '../src/components/Banner';
 
 function App() {
   return (
-    <div className='App'>
+    <div className='app'>
       <Banner />
       <Row
         title='NETFLİX ORIGINALS'

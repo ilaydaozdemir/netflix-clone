@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from '../axios';
 import requests from '../requests';
+import '../css/Banner.css';
 
 function Banner() {
   const [movie, setMovie] = useState([]);
@@ -25,10 +26,12 @@ function Banner() {
         backgroundPosition: 'center center',
       }}
     >
-      <div className='banner_contents'>
+      <div className='banner__contents'>
         {/* <<<Background image*/}
         {/* title*/}
-        <h1>{movie?.title || movie?.name || movie?.original_name}</h1>
+        <h1 className='banner__title'>
+          {movie?.title || movie?.name || movie?.original_name}
+        </h1>
 
         {/* div>2 buttons*/}
         <div className='banner__buttons'>

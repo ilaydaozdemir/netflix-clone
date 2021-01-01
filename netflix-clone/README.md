@@ -1,6 +1,8 @@
-![alt text](https://cdn.discordapp.com/attachments/735611557370658846/793567457393508362/giris.jpg),
-![alt text](https://cdn.discordapp.com/attachments/735611557370658846/793567611857272862/navbar.jpg),
-![alt text](https://cdn.discordapp.com/attachments/735611557370658846/793567726782119986/fragman.jpg),
+![alt text](https://cdn.discordapp.com/attachments/735611557370658846/793567457393508362/giris.jpg)
+
+![alt text](https://cdn.discordapp.com/attachments/735611557370658846/793567611857272862/navbar.jpg)
+
+![alt text](https://cdn.discordapp.com/attachments/735611557370658846/793567726782119986/fragman.jpg)
 
 # What Did I Use
 
